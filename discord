@@ -1,0 +1,2 @@
+git remote add origin https://github.com/kate2307/bookish-octo-giggle.git
+git push -u origin master
